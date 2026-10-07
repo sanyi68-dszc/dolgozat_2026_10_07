@@ -1,0 +1,8 @@
+C:\Users\tanulo\Desktop\szatmarisandor\kopaszbela\VideoGames\VideoGames\bin\Debug\VideoGames.exe.config
+C:\Users\tanulo\Desktop\szatmarisandor\kopaszbela\VideoGames\VideoGames\bin\Debug\VideoGames.exe
+C:\Users\tanulo\Desktop\szatmarisandor\kopaszbela\VideoGames\VideoGames\bin\Debug\VideoGames.pdb
+C:\Users\tanulo\Desktop\szatmarisandor\kopaszbela\VideoGames\VideoGames\obj\Debug\VideoGames.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\szatmarisandor\kopaszbela\VideoGames\VideoGames\obj\Debug\VideoGames.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanulo\Desktop\szatmarisandor\kopaszbela\VideoGames\VideoGames\obj\Debug\VideoGames.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\szatmarisandor\kopaszbela\VideoGames\VideoGames\obj\Debug\VideoGames.exe
+C:\Users\tanulo\Desktop\szatmarisandor\kopaszbela\VideoGames\VideoGames\obj\Debug\VideoGames.pdb
